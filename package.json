@@ -1,0 +1,26 @@
+{
+  "name": "jordan-scrapes-alibaba",
+  "version": "1.0.0",
+  "description": "Scrape Alibaba with Puppeteer",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js"
+  },
+  "keywords": [
+    "Typescript",
+    "Javascript",
+    "Puppeteer"
+  ],
+  "author": "Jordan Hansen",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.11.0",
+    "puppeteer-helpers": "^1.0.10"
+  },
+  "devDependencies": {
+    "@types/node": "^11.11.6",
+    "@types/puppeteer": "^1.11.1",
+    "tslint": "^5.14.0",
+    "typescript": "^3.2.2"
+  }
+}
