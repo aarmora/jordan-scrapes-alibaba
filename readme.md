@@ -10,6 +10,8 @@ Update the searchText in `src/index.ts` for the search item that you want to use
 
 After that, you just need to run `npm start`.
 
+[Full Guide](https://javascriptwebscrapingguy.com/jordan-scrapes-alibaba/)
+
 ### Prerequisites
 
 Tested on Node v8.11.2 and NPM v5.6.0.
